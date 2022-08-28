@@ -1,0 +1,628 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#main {
+
+max-width: 1400px;
+margin-left: auto;
+margin-right: auto;
+}
+#c_name {
+     font-size: 20px;
+     font-weight: bold;
+     color: #5A5A5A;
+
+	}
+	
+
+.error {
+
+color: red;
+font-weight: normal;
+margin: 2px;
+
+}
+#chars {
+     font-weight: bold;
+     padding-left: 30px;
+}
+.bus_name {
+	color: #5A5A5A;
+        font-weight: bold;
+}
+
+.goo {
+	padding-left: 0px;
+}
+
+.check {
+	margin: 10px;
+}
+.check_mall {
+	padding-right: 40px;
+}
+.vertical{
+	margin-bottom: 40px;
+}
+#wana {
+	color: #;
+	font-weight: normal;
+
+}
+
+.down {
+	margin-left: 50px;
+}
+
+#post_font {
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.up {
+	margin-top: 10px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.btn_lar {
+	color: #FF6600;
+
+}
+
+#index_post {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#logo {
+
+	margin-top: -10px;
+	width: 120px;
+	height: 40px;
+
+}
+#lgo {
+	width: 120px;
+	height: 40px;
+	margin-top: -10px;
+}
+
+#SAL {
+	color: #FF6600;
+	font-weight:bold;
+}
+.create {
+	font-family: Verdana;
+}
+#foot {
+	font-family: Verdana;
+	text-transform: lowercase;
+}
+#disc {
+	font-family: Verdana;
+	font-size: 14px;
+	margin-top: -15px
+}
+
+}
+#enter_city {
+	font-family: Verdana;
+	font-size: 16px;
+}
+.go {
+	font-family: Verdana;
+}
+
+#sale_nav {
+	font-family: Verdana;
+	font-size: 16px;
+	color: #5A5A5A;
+	font-weight: bol;
+	
+}
+
+#header {
+	height: 70px;
+	padding: 10px;
+	background-color: #FFFFFF;
+	border-to: 5px solid #FF6600;
+
+
+}
+
+#login {
+	margin-top: 10px;
+}
+#wrap {
+	min-height: 100%;
+	position: relative;
+}
+
+#address {
+
+	display: none;
+}
+.bran {
+	margin-top: -20px;
+}
+.form-control {
+	width: 230px;
+}
+.labl {
+	margin-top:5px;
+	margin-bottom: 3px;
+	width: 350px;
+	font-family: Verdana;
+	font-weight: lighter;
+}
+.register_use {
+	font-family: Verdana;
+	font-size: 12px;
+}
+#about_heading {
+	color: #000000;;
+	font-family: Verdana;
+	margin-bottom: 15px;
+	font-size: 20px;
+}
+.about_use, #form_heading {
+	font-family: Verdana;
+	color: #000000;;
+	margin-bottom: 15px;
+}
+.about_par {
+	font-size: 12px;
+}
+#about_pa {
+	font-size: 16px;
+	width: 565px;
+}
+
+#form_border {
+	margin-bottom: 20px;
+}
+
+#nav_link {
+
+	font-family: Verdana;
+	font-size: 14px;
+	color: #000000;;
+	font-weight: bold;
+}
+#nav_lin {
+
+	font-family: Verdana;
+	font-size: 16px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#p_info {
+	font-family: Verdana;
+	font-size: 14px;
+}
+
+#main {
+
+	margin-top: 90px;
+	padding: 10px;
+	padding-bottom: 40px;	/* Height of the footer */
+}
+
+#shop {
+
+	font-family: Verdana;
+	font-size: large;
+}
+.box {
+
+	background-colo:  #F2F2F2;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 5px;
+	border-bottom: 2px solid  #EEEEEE;
+
+}
+
+#foo {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;	/* Height of the footer */
+	background-color: #FF6600;
+	margin-top: 20px;
+}
+#fo {
+	background-color: #FF6600;
+	list-style-type: none;
+	overflow: hidden;
+	padding-top: 10px;
+}
+#fo, li {
+	float: left;
+	display: block;
+}
+
+#footer {
+	background-color: #FF6600;
+}
+
+#mesh, #meh {
+	margin-top: 20px;
+	font-family: Verdana;
+}
+
+#foot {
+        font-weight: bold;
+	color: #000000;
+}
+
+
+
+#for_business {
+
+	margin-top: -5px;
+	font-weight: bold;
+	font-family: Verdana;
+}
+
+.selectpicker {
+	width: 130px;
+	font-size: 20px;
+}
+
+@media only screen and (max-width: 781px) {
+.amaz_1 {
+          display: none;
+}
+
+.consumer {
+	font-family: Verdana;
+	padding-top: 150px;
+	font-size: 20px;
+}
+
+#post {
+	font-size: 16px;
+	color: #FFFFFF;
+	margin-top: 40px;
+	
+}
+.goo {
+	padding-left: 18px;
+}
+	.nav_2 {
+	margin-top: -65px;
+}
+                                              .business
+	 {
+margin-top: 5px;	
+}
+
+	.ho {
+		margin-top: 8px;
+        	font-family: Verdana;
+	        font-size: 16px;
+	        color: #FFFFFF;	
+	}
+	.home {
+	}
+	.copy {
+		display: none;
+	}
+	#fo, li {
+
+		padding-left: 15px;
+	}
+	#infog {
+                   display: none;
+             	}
+
+
+	.consumer {
+
+		font-size: 18px;
+		margin-left: 20px;
+	}
+	#for_business {
+		margin-top: -140px;
+	}
+	.consumer {
+		margin-top: -80px;
+	}
+	#share_pic {
+		width: 20px;
+		height: 20px;
+		margin-left: 200px;
+		margin-top: -50px;
+	}
+	#share_pic_pp {
+		width: 20px;
+		heighh: 20px;
+		margin-left: 235px;
+		margin-top: -63px;
+
+	}
+
+	.delete {
+		margin-left: 130px;
+		margin-top: 5px;
+	}
+	#edit, #add_logo {
+		display: none;
+	}
+	#mob_footer {
+		display: none;
+	}
+	#foot {
+		margin-left: -15px;
+	}
+
+	.foot_log {
+		margin-left: 10px;
+		margin-top: 8px;
+	}
+
+	#bus_use {
+		display: none;
+	}
+	#p_box {
+		margin: 10px 15px 15px 15px;
+	}
+	#search_box {
+		width: 300px;
+	}
+	
+	#logo {
+
+		display: none
+	}
+	#lgo {
+		margin-top: -10px;
+		margin-left: 70px;
+	}
+
+	#meh, #mesh {
+		width: 130px;
+	}
+	
+	#mob_nav {
+		display: none;
+	}
+
+	#c_disc {
+		display: none;
+	}
+	#c_name {
+		margin-bottom: -10px;
+		margin-top: 10px;
+	}
+	#p_info {
+		font-family: Verdana;
+		font-size: large;
+		margin-top: -80px;
+		margin-left: 100px;
+	}
+	#p_ifo2 {
+		margin-top: 50px;
+		margin-left: -100px;
+	}
+
+	#profile {
+		height: 70px;
+		width: 70px;
+	}
+	#info {
+		margin-top: -40px;
+	}
+	#canvas {
+		width: 280px;
+		height: 250px;
+		margin: 20px 10px 10px 0px;
+	}
+	.box {
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+	.enter_mob {
+		margin-left: 20px;
+	}
+	#go_mob {
+		
+	}
+
+	#thumb {
+		width: 270px;
+		height: 180px;
+		margin-top: 5px;
+		margin-bottom: -10px;
+	}
+	.info {
+		margin-left: 10px;
+	}
+
+}
+
+@media only screen and (min-width: 781px) {
+
+#infog {
+        height: 550px;
+        width: 450px;
+        margin-bottom: 10px;
+
+         }
+
+.consumer {
+	font-family: Verdana;
+	padding-top: 50px;
+	font-size: 26px;
+	margin-left: 13px;
+
+}
+.amaz_1 {
+          margin-bottom: 20px;
+          margin-top: 40px;
+
+
+}
+
+#log_eror {
+margin-top: 75px;
+
+}
+#post {
+	font-size: 16px;
+	color: #FFFFFF;
+	margin-left: 50px;
+        margin-top: 10px;
+}
+	.nav_2 {
+	padding-top: 30px;
+}
+
+	.home {
+		display: none;
+	}
+
+	#fo, li {
+
+		padding-left: 25px;
+	}
+	#fo {
+		margin-left: -100px;
+	}
+	#index_foo {
+		margin-left: 250px;
+	}
+	.share_pic_pp {
+		width: 20px;
+		height: 25px;
+		margin-bottom: -190px;
+
+	}
+
+	#share_pic {
+		width: 20px;
+		height: 25px;
+		margin-bottom: -170px;
+
+	}
+	.delete {
+		margin-left: 200px;
+		margin-top: 10px;
+	}
+	.form-group {
+		border: 0px solid  #5AD55C;
+		padding-left: 85px;
+	        padding-bottom: 15px;
+	        padding-top: 15px;
+		background-color: ;
+	}
+	.box {
+
+		height: 190px;
+	}
+	#bus_use {
+		margin-top: 100px;
+		margin-left: 20px;
+		background-color: #FFFFFF;
+	}
+
+	#about_main {
+		background-color:  ;
+		padding-right: 200px;
+		margin-top: 30px;
+	}
+
+	.form_search {
+		margin-left: 315px;
+	}
+	
+	#meh {
+		margin-top: 80px;
+		margin-left: -585px;
+		
+		
+	}
+	
+	#nav_fea {
+	
+	marging-bottom: 10px;
+	
+	}
+
+	#mesh {
+
+	}
+	#profile {
+		border-bottom: 2px solid #999;
+		border-lef: 2px solid #999;
+		padding-left: 5px;
+		padding-bottom: 3px;
+		height: 200px;
+		width: 200px;
+		margin: 10px;
+	}
+	#canvas {
+		width: 250px;
+		height: 250px;
+		margin: 10px;
+	}
+	.info {
+		margin-top: 40px;
+		margin-left: 40px;
+
+
+
+	}
+	.upp {
+
+		font-family: Verdana;
+		color: #000000;
+		width: 130px;
+	}
+	#add_sale {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	#edit {
+			margin-bottom: 15px;
+                  }
+	.delete {
+		margin-top: 20px;
+	}
+	#abi {
+		margin-top: -110px;
+	}
+	
+	.zema {
+	
+         margin-top: 50px;
+	
+	}
+	.business
+	{
+	
+         margin-top: 20px;
+	
+	}
+	
+    
+
+	#thumb {
+		width: 200px;
+		height: 180px;
+		margin-left: -9px;
+		margin-top: 5px;
+		margin-bottom: -5px;
+		margin-right: 5px;
+
+	}
+
+	#search_box {
+		margin-left: 140px;
+		margin-top: -32px;
+	}
+}
